@@ -39,7 +39,7 @@ baseurl: "/portfolio" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:https://twitter.com/Egal_doyows
-    twitter: 'Egal_doyows'
+    twitter: "Egal_doyows"
     github: egaldoyows
 
 # Set this to true to get LaTeX math equation support
